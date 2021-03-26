@@ -1,2 +1,2 @@
 # TrCorona
-Basit, ülkemizin corona durumunu gösteren app
+Ülkemizin corona durumunu gösteren app
